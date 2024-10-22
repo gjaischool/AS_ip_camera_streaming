@@ -28,6 +28,7 @@ Android 기기를 IP 카메라로 변환하여 실시간으로 카메라 영상�
 1. **Python 3.x**를 설치합니다.
 2. 필요한 패키지를 설치합니다.
 3. `eye_detection.py` 스크립트의 IP 주소를 실제 환경에 맞게 수정합니다.
+  (https://github.com/gjaischool/Final-Project-No/blob/main/eye_detection.py) 
 4. 스크립트를 실행합니다.
 
 
