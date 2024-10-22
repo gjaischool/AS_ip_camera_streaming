@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AS_ip_camera_streaming</string>
+    <string name="server_running">Server running at: http://%1$s</string>
+    <string name="unable_to_retrieve_ip">Unable to retrieve IP address</string>
+</resources>
